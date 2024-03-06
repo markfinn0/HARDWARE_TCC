@@ -1,0 +1,10 @@
+Pinos utilizados
+
+Esp32 | RFID
+3v3   | 3v3
+GND   | GND
+27    | RST
+19    | MISO
+23    | MOSI
+18    | SCK
+5     | SDA
