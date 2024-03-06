@@ -1,0 +1,3 @@
+Impossibilidade de alterar o código UID.
+
+ Apesar da simplicidade e disponibilidade dos cartões RFIDS e leitores, os cartões oferecem uma segurança muito grande contra cópias não autorizadas dos chips, os cartões são criptografados e com alguns bloqueios no chip, impossibilitando a clonagem bruta dos cartões. Isso impede tambem o nosso grupo de manipular os dados dos cartões, fazendo com que tenhamos que associar o numero do cartão ao numero da conta do usuario, e isso é imutável. Não conseguimos colocar um ID proprio do numero do cartão, fazendo com que o cartão se torne uma chave única desde fábrica. Pelo que eu pesquisei existe modelos que permitem mudanças no byte dos UID.
